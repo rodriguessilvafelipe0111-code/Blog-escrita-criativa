@@ -11,7 +11,22 @@ header {
 body {
     background-color: #ffebd2;
 }
+main{
+    background-color: #ffead0;
+    color: black;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+article{
+    display: flex;
+}
 img{
     width: 100px;
-    background-color: #ffebd2;
+    height: 100px;
+}
+.artigo-autor{
+    font-weight: bold;
+    font-style: italic;
+    color: #B12C00;
 }
